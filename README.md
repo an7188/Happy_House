@@ -2,7 +2,7 @@
 
 ## 팀원 소개 🧑🏻‍💻👩🏻‍💻 
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gwrregipegj308k0bbaac.jpg" alt="Image Pasted at 2021-9-17 00-05" style="zoom:25%;" /><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gwrrdxit3sj309f0cpjrw.jpg" alt="스크린샷 2021-11-25 오후 11.18.57" style="zoom:20%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gwrregipegj308k0bbaac.jpg" alt="Image Pasted at 2021-9-17 00-05" style="zoom:10%;" /><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gwrrdxit3sj309f0cpjrw.jpg" alt="스크린샷 2021-11-25 오후 11.18.57" style="zoom:10%;" />
 
 **안예지(팀장**)     **허범**
 
